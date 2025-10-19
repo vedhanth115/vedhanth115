@@ -1,5 +1,5 @@
-#  Hi , I'm Vedhanth N
-**A Passionate Data and BI Analyst**
+#  Hi , Welcome to My Profile
+**I'm a Passionate Data and BI Analyst**
 
 Mail at ✉️ **vedhanth115@gmail.com** for Opportunities/ Projects or anything else.
 
