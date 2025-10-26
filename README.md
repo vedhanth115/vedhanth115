@@ -8,7 +8,7 @@ Mail at ✉️ **vedhanth115@gmail.com** for Opportunities/ Projects or anything
 - 👯 **I’m looking to collaborate on:** New Growth Opportunities
 - 📫 **How to reach me: vedhanth115@gmail.com | www.linkedin.com/in/vedhanth115/
 # ✨ About Me !
-Practical experience in Microsoft Power BI, SQL, Excel and Python. I Design Dashboards, write optimized queries, and solve Business Problems to support Decision making.
+Having practical experience in Microsoft Power BI, SQL, Excel and Python. I Design Dashboards, write optimized queries, and solve Business Problems to support Decision making.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedhanth115/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedhanth115@gmail.com) 
