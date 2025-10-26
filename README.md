@@ -1,10 +1,10 @@
 #  Hi , Welcome to My Profile
-**I'm a Passionate Data and BI Analyst**
+**I'm a Passionate Data Analyst**
 
 Mail at ✉️ **vedhanth115@gmail.com** for Opportunities/ Projects or anything else.
 
 - 🏢 **I’m currently working :** As a Data Analyst in a Product Based Company
-- ⚡ **I’m currently learning:** Python for Data Analysis using Pandas and SeaBorn
+- ⚡ **I’m currently learning:** Data Analysis using Pandas and SeaBorn
 - 👯 **I’m looking to collaborate on:** New Growth Opportunities
 - 📫 **How to reach me: vedhanth115@gmail.com | www.linkedin.com/in/vedhanth115/
 # ✨ About Me !
